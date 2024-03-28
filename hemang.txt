@@ -1,0 +1,33 @@
+Characteristics of Selected Datasets:
+
+1. NY-House-Dataset.csv:-
+Type of Data: This dataset contains information about individual properties in New York City.
+Features: It includes features such as property type (categorical), price (numerical), number of bedrooms (numerical), number of bathrooms (numerical), property square footage (numerical), and location details like borough and neighborhood (categorical).
+Data Type: It primarily consists of numerical and categorical data.
+Time Series Data: This dataset doesn't contain explicit time series data.
+
+
+2. Affordable_Housing_Production_by_Project_20240323.csv:-
+Type of Data: This dataset provides information about affordable housing projects in NYC.
+Features: Features include project ID, project name, program group (categorical), project start and completion dates (time series), prevailing wage status (categorical), tax benefits (numerical), and units across different income levels (numerical).
+Data Type: It includes numerical, categorical, and time series data.
+Time Series Data: Project start and completion dates provide time series information.
+
+
+3. Affordable_Housing_Production_by_Building_20240323.csv:-
+Type of Data: This dataset offers information about affordable housing buildings in NYC.
+Features: It includes building ID, location details such as borough and neighborhood (categorical), number of units across different income levels (numerical), and completion dates (time series).
+Data Type: It contains numerical, categorical, and time series data.
+Time Series Data: Completion dates provide time series information.
+
+Research Questions:
+
+1. Property Type and Price: Does the type of property (apartment, house) significantly affect the price? 
+We'll compare these types statistically and visually to see if there's a price difference.
+
+2. Bedrooms, Bathrooms, and Price: How do the number of bedrooms and bathrooms influence pricing? We'll analyze the relationships using correlation and visualize them to see how these features impact price. 
+
+3. Square Footage and Price: Is there a connection between a property's size (square footage) and its price? We'll calculate correlations and use scatter plots to explore this relationship. We might even analyze it separately for apartments and houses.
+
+4. Location and Price: Does where a property is located in NYC (borough, neighborhood) affect its price? We'll use mapping and spatial analysis techniques to see how prices are distributed across different areas. We'll also use statistical tests to measure the impact of location on pricing.
+

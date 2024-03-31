@@ -2,12 +2,11 @@
 
 ## Details of Team Members
 
+<li>Ayush Gupta (24703860)</li>
 <li>Hemang Sharma (24695785)</li>
 <li>Jyoti Khurana (14075648)</li>
-<li>Sarika Kalbhore (25186990)</li>
-<li>Ayush Gupta (24703860)</li>
 <li>Kaniz Fatema Mithun (25109810)</li>
-
+<li>Sarika Kalbhore (25186990)</li>
 
 ## Refrences
 <li><a href="https://www.kaggle.com/datasets/nelgiriyewithana/new-york-housing-market/data">New York Housing Market</a></li>
